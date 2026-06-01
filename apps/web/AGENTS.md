@@ -1,4 +1,3 @@
-```md
 # Web App Agent Entry
 
 Before implementing changes in this app:
@@ -10,4 +9,3 @@ Before implementing changes in this app:
 Follow the documented architecture, coding standards, and feature requirements.
 
 Do not invent product behavior that is not in the docs or feature spec.
-```
